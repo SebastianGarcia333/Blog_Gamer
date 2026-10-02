@@ -1,4 +1,7 @@
 # Blog_Gamer
+## Trello link
+https://trello.com/b/fVt0T0YC/generation-blog-gaming
+# Trello prev
 <img width="1865" height="978" alt="imagen" src="https://github.com/user-attachments/assets/a1b0593a-bb46-4616-aeec-200eb97b4265" />
 
 # INICIO
